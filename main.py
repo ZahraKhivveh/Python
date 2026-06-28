@@ -24,6 +24,23 @@ w= [ 1 , 2 ,3];
 print(3 not in u)
 print(u is not w)
 print( (d:=6) > 0 )
-
+#exercise001------------------------
+xx = 101 ; yy=202;
+print("xx= " , xx); print("yy= " , yy)
+xx,yy = yy, xx;
+print("xx= " , xx); print("yy= " , yy)
+#exercise002------------------------
+aa= 8; bb= 3;
+area = aa * bb;
+print("This is the area" , area);
+#exercise003------------------------
+celsius = 30
+fahrenheit = (celsius * 9 / 5) + 32
+print("fahrenheit =", fahrenheit)
+#exercise004------------------------
+pi = 3.14 ; radius= 100;
+circumference= 100 *2 *3.14;
+area=radius**2 *pi;
+print("area = ",area); print("circumference= " ,circumference);
 
 
