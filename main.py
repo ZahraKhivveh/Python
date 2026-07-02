@@ -41,6 +41,6 @@ print("fahrenheit =", fahrenheit)
 pi = 3.14 ; radius= 100;
 circumference= 100 *2 *3.14;
 area=radius**2 *pi;
-print("area = ",area); print("circumference= " ,circumference);
+print("areaALL = ",area); print("circumferenceALL= " ,circumference);
 
 
