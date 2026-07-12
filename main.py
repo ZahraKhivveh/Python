@@ -42,5 +42,8 @@ pi = 3.14 ; radius= 100;
 circumference= 100 *2 *3.14;
 area=radius**2 *pi;
 print("areaALL = ",area); print("circumferenceALL= " ,circumference);
-
+pox = 5
+dox = 6.666
+print(type(pox))
+print(type(dox))
 
