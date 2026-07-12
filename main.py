@@ -42,8 +42,18 @@ pi = 3.14 ; radius= 100;
 circumference= 100 *2 *3.14;
 area=radius**2 *pi;
 print("areaALL = ",area); print("circumferenceALL= " ,circumference);
-pox = 5
-dox = 6.666
+pox = 100.5
+mox = 5 +8j
+dox ={"ali" : "boy" }
+pox = int(pox)
+print(pox)
 print(type(pox))
 print(type(dox))
+print(type(mox))
+from  decimal import Decimal
+print(Decimal ('0.6') + Decimal('0.3'))
+import fractions
+print(fractions.Fraction(0.75))
+io= 1e+7
+print(io)
 
