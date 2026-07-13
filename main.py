@@ -57,6 +57,8 @@ print(fractions.Fraction(0.75))
 io= 1e+7
 print(io)
 cc = 10 +80j
+asl = 365 + 12j
+print(asl.real)
 print(cc.real)
 print(cc.imag)
 print(cc.conjugate())
