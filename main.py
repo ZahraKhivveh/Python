@@ -62,6 +62,11 @@ print(asl.real)
 print(cc.real)
 print(cc.imag)
 print(cc.conjugate())
+AA = -11.854655665
+print(round(AA , 3))
+print(abs(AA))
+HH = 3
+print(pow(HH , 3))
 
 
 
